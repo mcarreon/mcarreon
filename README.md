@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, I'm Marlo
+
+I'm a backend golang developer, currently working out in Bitbucket so little to no activity on here :sweat_smile:
 
 <!--
 **mcarreon/mcarreon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
